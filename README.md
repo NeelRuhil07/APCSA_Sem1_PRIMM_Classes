@@ -12,19 +12,19 @@ it can help supplement your notes.
 **Without running the program**, predict what its behavior is.
 
 1. What will the program output when it is run?
-    >  your answer
+    >  prints side length
 
 2. What do you think the words `public` and `private` mean?
-    > your answer
+    > public is available to others and private isnt
 
 3. How are the files `ShapeDriver.java` and `Square.java` related? 
-    > your answer
+    > square calls on values from shapedrive
 
 4. There is no method definition for `Square()`. Do you think the code will compile? 
-    > your answer
+    > No
 
 5. Why do the methods/functions `getSide()` and `setSide()` exist? 
-    > your answer
+    > to get side from shaoe drive and set it to the variable
 
 ## Run
 Run the program. 
