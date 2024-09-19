@@ -21,10 +21,10 @@ it can help supplement your notes.
     > square calls on values from shapedrive
 
 4. There is no method definition for `Square()`. Do you think the code will compile? 
-    > No
+    > Yes
 
 5. Why do the methods/functions `getSide()` and `setSide()` exist? 
-    > to get side from shaoe drive and set it to the variable
+    > to get side from shape drive and set it to the variable
 
 ## Run
 Run the program. 
